@@ -1,4 +1,4 @@
-# Hi, I'm CoinLover 👋
+# Hi, I'm CoinLover 👋 <img src="https://pixabay.com/gifs/rich-gold-coin-currency-money-4897/" alt="CoinLover Neon" width="780" />
 <p align="center">
   <!-- Replace the URL below with your neon "CoinLover" GIF hosted in this repo (e.g. /assets/neon-coinlover.gif) or a raw.githubusercontent URL -->
   <img src="https://raw.githubusercontent.com/coinlovertechfr/REPLACE-WITH-REPO/main/assets/neon-coinlover.gif" alt="CoinLover Neon" width="780" />
