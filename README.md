@@ -1,4 +1,6 @@
-# Hi, I'm CoinLover <img src="https://cdn.pixabay.com/animation/2023/03/23/17/00/17-00-52-997_512.gif" alt="CoinLover Neon" />
+# <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ursive&weight=900&size=50&duration=3000&pause=1000&color=FBFF5E&center=true&vCenter=true&width=800&lines=I'm+Coin+Lover;Creative+Solution;Python+Developer;eCommerce+Specialist;CMS+Master" alt="Typing SVG" /></a></div> <br>
+
+<div align="center"><img src="https://cdn.pixabay.com/animation/2023/03/23/17/00/17-00-52-997_512.gif" alt="CoinLover Neon" /></div>
 <p align="center">
   <!-- Replace the URL below with your neon "CoinLover" GIF hosted in this repo (e.g. /assets/neon-coinlover.gif) or a raw.githubusercontent URL -->
   <img src="https://raw.githubusercontent.com/coinlovertechfr/REPLACE-WITH-REPO/main/assets/neon-coinlover.gif" alt="CoinLover Neon" width="780" />
